@@ -8,7 +8,7 @@ Creating a new branch is quick & simple.
 Creating a new branch is quick And simple.
 Test --no--ff merge.
 Test fast merge.
-
+set git font clolor.
 fix issue-101.
 
 
